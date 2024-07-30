@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Sunke</h1>
-<h3 align="center">I am a third-year Computer Engineering undergraduate student at Pune Institute of Computer Technology with a strong passion for Full Stack web development. I have a good Grip on Data Structures and Algorithms along with Engineering Core Concepts.</h3>
+<h3 align="center">I am a fourth-year Computer Engineering undergraduate student at Pune Institute of Computer Technology with a strong passion for Full Stack web development. I have a good Grip on Data Structures and Algorithms along with Engineering Core Concepts.</h3>
 
 - 🔭 I’m currently working on **Full Stack Web Projects and Practicing DSA**
 
